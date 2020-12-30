@@ -18,6 +18,7 @@ body {
     text-decoration: none;
     display: block;
     transition: all 0.3s ease-out;
+
   }
   
   .nav a:hover {
@@ -30,6 +31,7 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
+    align-items: center;
   }
   
   .nav li {
@@ -52,13 +54,7 @@ body {
     background-color: #9ca4d9;
   }
   
-  .leftin a {
-    background-color: #3949ab;
-    color: #fff;
-    text-decoration: none;
-    padding: 12px 20px;
-    border-radius: 8px;
-    font-size: 1.18rem;
-    display: inline-block;
-    padding: 5px 5px;
+  .ib {
+    height: 50px;
+    padding-left: 20px;
   }
