@@ -52,3 +52,12 @@ body {
     background-color: #9ca4d9;
   }
   
+  .leftin a {
+    background-color: #3949ab;
+    color: #fff;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 1.18rem;
+    display: inline-block;
+  }
